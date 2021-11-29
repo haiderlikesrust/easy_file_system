@@ -1,0 +1,19 @@
+[package]
+name = "easy_fs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+keywords = ["fs", "file system", "easy fs"]
+description = "Read, Write and more into your file easily!"
+readme = "README.md"
+repository = ""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
+thiserror = "1.0.30"
+
+[lib]
+name = "prelude"
+path = "./src/lib/mod.rs"
