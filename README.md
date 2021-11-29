@@ -1,4 +1,4 @@
-# easy_fs
+# easy_file_system
 
 
 Coming from Python to Rust is hard, I'm not saying its impossible but the syntax is weird for someone coming from Python. The `fs` in 

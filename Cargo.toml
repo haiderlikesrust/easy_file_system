@@ -1,12 +1,12 @@
 [package]
-name = "easy_fs"
+name = "easy_file_system"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 keywords = ["fs", "filesystem", "easyfs"]
 description = "Read, Write and more into your file easily!"
 readme = "README.md"
-repository = "https://github.com/Haider-Ali-Dev/easy_fs"
+repository = "https://github.com/Haider-Ali-Dev/easy_file_system"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
