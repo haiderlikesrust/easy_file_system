@@ -11,7 +11,7 @@ You should some basics of Rust.
 
 
 ```rs
-use easy_fs::prelude::fs::FileHandler;
+use easy_fs::fs::FileHandler;
 
 
 fn main()  {

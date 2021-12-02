@@ -14,5 +14,5 @@ repository = "https://github.com/Haider-Ali-Dev/easy_file_system"
 
 
 [lib]
-name = "prelude"
+name = "easy_file_system"
 path = "./src/lib/mod.rs"
